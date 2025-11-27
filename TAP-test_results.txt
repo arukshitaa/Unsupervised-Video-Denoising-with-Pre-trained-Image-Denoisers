@@ -1,0 +1,6 @@
+TRUE TAP TEST RESULTS
+==================================================
+Overall PSNR (Noisy): 18.90 dB
+Overall PSNR (Denoised): 9.81 dB
+Overall SSIM (Noisy): 0.3437
+Overall SSIM (Denoised): 0.2152
